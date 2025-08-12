@@ -6,9 +6,9 @@ Uploaders: Wu, Zhenyu <wuzhenyu@ustc.edu>
 Build-Depends: debhelper-compat (= 9), libglib2.0-dev, librime-dev, pkg-config, xmake
 Rules-Requires-Root: no
 Standards-Version: 4.6.0
-Homepage: https://github.com/Freed-Wu/tmux-rime
-Vcs-Git: https://github.com/Freed-Wu/tmux-rime
-Vcs-Browser: https://github.com/Freed-Wu/tmux-rime
+Homepage: https://github.com/rimeinn/tmux-rime
+Vcs-Git: https://github.com/rimeinn/tmux-rime
+Vcs-Browser: https://github.com/rimeinn/tmux-rime
 
 Package: tmux-rime
 Architecture: amd64 arm64 armel armhf i386 mips64el mipsel powerpc s390x

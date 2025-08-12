@@ -1,31 +1,31 @@
 # tmux-rime
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Freed-Wu/tmux-rime/main.svg)](https://results.pre-commit.ci/latest/github/Freed-Wu/tmux-rime/main)
-[![github/workflow](https://github.com/Freed-Wu/tmux-rime/actions/workflows/main.yml/badge.svg)](https://github.com/Freed-Wu/tmux-rime/actions)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/rimeinn/tmux-rime/main.svg)](https://results.pre-commit.ci/latest/github/rimeinn/tmux-rime/main)
+[![github/workflow](https://github.com/rimeinn/tmux-rime/actions/workflows/main.yml/badge.svg)](https://github.com/rimeinn/tmux-rime/actions)
 
-[![github/downloads](https://shields.io/github/downloads/Freed-Wu/tmux-rime/total)](https://github.com/Freed-Wu/tmux-rime/releases)
-[![github/downloads/latest](https://shields.io/github/downloads/Freed-Wu/tmux-rime/latest/total)](https://github.com/Freed-Wu/tmux-rime/releases/latest)
-[![github/issues](https://shields.io/github/issues/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/issues)
-[![github/issues-closed](https://shields.io/github/issues-closed/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/issues?q=is%3Aissue+is%3Aclosed)
-[![github/issues-pr](https://shields.io/github/issues-pr/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/pulls)
-[![github/issues-pr-closed](https://shields.io/github/issues-pr-closed/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/pulls?q=is%3Apr+is%3Aclosed)
-[![github/discussions](https://shields.io/github/discussions/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/discussions)
-[![github/milestones](https://shields.io/github/milestones/all/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/milestones)
-[![github/forks](https://shields.io/github/forks/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/network/members)
-[![github/stars](https://shields.io/github/stars/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/stargazers)
-[![github/watchers](https://shields.io/github/watchers/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/watchers)
-[![github/contributors](https://shields.io/github/contributors/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/graphs/contributors)
-[![github/commit-activity](https://shields.io/github/commit-activity/w/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/graphs/commit-activity)
-[![github/last-commit](https://shields.io/github/last-commit/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/commits)
-[![github/release-date](https://shields.io/github/release-date/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/releases/latest)
+[![github/downloads](https://shields.io/github/downloads/rimeinn/tmux-rime/total)](https://github.com/rimeinn/tmux-rime/releases)
+[![github/downloads/latest](https://shields.io/github/downloads/rimeinn/tmux-rime/latest/total)](https://github.com/rimeinn/tmux-rime/releases/latest)
+[![github/issues](https://shields.io/github/issues/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/issues)
+[![github/issues-closed](https://shields.io/github/issues-closed/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/issues?q=is%3Aissue+is%3Aclosed)
+[![github/issues-pr](https://shields.io/github/issues-pr/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/pulls)
+[![github/issues-pr-closed](https://shields.io/github/issues-pr-closed/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/pulls?q=is%3Apr+is%3Aclosed)
+[![github/discussions](https://shields.io/github/discussions/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/discussions)
+[![github/milestones](https://shields.io/github/milestones/all/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/milestones)
+[![github/forks](https://shields.io/github/forks/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/network/members)
+[![github/stars](https://shields.io/github/stars/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/stargazers)
+[![github/watchers](https://shields.io/github/watchers/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/watchers)
+[![github/contributors](https://shields.io/github/contributors/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/graphs/contributors)
+[![github/commit-activity](https://shields.io/github/commit-activity/w/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/graphs/commit-activity)
+[![github/last-commit](https://shields.io/github/last-commit/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/commits)
+[![github/release-date](https://shields.io/github/release-date/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/releases/latest)
 
-[![github/license](https://shields.io/github/license/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime/blob/main/LICENSE)
-[![github/languages](https://shields.io/github/languages/count/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
-[![github/languages/top](https://shields.io/github/languages/top/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
-[![github/directory-file-count](https://shields.io/github/directory-file-count/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
-[![github/code-size](https://shields.io/github/languages/code-size/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
-[![github/repo-size](https://shields.io/github/repo-size/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
-[![github/v](https://shields.io/github/v/release/Freed-Wu/tmux-rime)](https://github.com/Freed-Wu/tmux-rime)
+[![github/license](https://shields.io/github/license/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime/blob/main/LICENSE)
+[![github/languages](https://shields.io/github/languages/count/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
+[![github/languages/top](https://shields.io/github/languages/top/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
+[![github/directory-file-count](https://shields.io/github/directory-file-count/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
+[![github/code-size](https://shields.io/github/languages/code-size/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
+[![github/repo-size](https://shields.io/github/repo-size/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
+[![github/v](https://shields.io/github/v/release/rimeinn/tmux-rime)](https://github.com/rimeinn/tmux-rime)
 
 [![aur/votes](https://img.shields.io/aur/votes/tmux-rime)](https://aur.archlinux.org/packages/tmux-rime)
 [![aur/popularity](https://img.shields.io/aur/popularity/tmux-rime)](https://aur.archlinux.org/packages/tmux-rime)
@@ -37,7 +37,7 @@ Rime for tmux.
 
 ![screenshot](https://github.com/user-attachments/assets/2887f6a0-1f4e-4d9b-9550-56268cc308b4)
 
-I use [rime.nvim](https://github.com/Freed-Wu/rime.nvim) to input CJKV
+I use [rime.nvim](https://github.com/rimeinn/rime.nvim) to input CJKV
 characters in neovim. However, for command mode and search mode, it cannot work.
 So I create it.
 
@@ -92,7 +92,7 @@ paru -S tmux-rime
 ## [NUR](https://nur.nix-community.org/repos/freed-wu/)
 
 ```sh
-nix-env -iA nur.repos.Freed-Wu.tmux-rime
+nix-env -iA nur.repos.rimeinn.tmux-rime
 ```
 
 ## [PPA](https://launchpad.net/~freedwu/+archive/ubuntu/rime)
@@ -118,7 +118,7 @@ emerge -av app-misc/tmux-rime
 - Support more special keys: <kbd>Up</kbd>, <kbd>Del</kbd>, <kbd>F1</kbd>, ...
 - Use C library function to do the work of `tmux send-keys` to save the fork
   cost.
-  [Some experiment](https://github.com/Freed-Wu/vimux.nvim) to wrap tmux to a
+  [Some experiment](https://github.com/rimeinn/vimux.nvim) to wrap tmux to a
   library.
 - Use a daemon to avoid fork a new process every time
 
