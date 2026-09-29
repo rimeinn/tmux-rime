@@ -181,7 +181,7 @@ static bool process_key(RimeSessionId session_id, int c, int mask,
     fputs("cannot get context", stderr);
     return menu_is_empty;
   }
-  if (context.menu.num_candidates == 0) {
+  if (context.menu.num_candidates == 0 && context.composition.preedit == NULL) {
     RIME_STRUCT(RimeCommit, commit);
     if (rime->commit_composition(session_id)) {
       if (!rime->get_commit(session_id, &commit)) {
