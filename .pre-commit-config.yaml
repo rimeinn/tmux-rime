@@ -67,13 +67,13 @@ repos:
           - mdformat-config
           - mdformat-web
   - repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.23.3
+    rev: v0.24.0
     hooks:
       - id: markdownlint-cli2
         additional_dependencies:
           - markdown-it-texmath
   - repo: https://github.com/pre-commit/mirrors-clang-format
-    rev: v23.1.1
+    rev: v23.1.5
     hooks:
       - id: clang-format
         exclude_types:
